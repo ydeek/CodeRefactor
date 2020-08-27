@@ -1,1 +1,4 @@
 # CodeRefactor
+The main goal of this project is to refactor the provided code in order to make it accessible to the people with disablities and socio-econimic restrictions using html tags and semantics as well as consalidating CSS. 
+
+The appropriate title was added, and the div tag was replaced with header in the header section and it was edited on css file. Images didn't have descriptions, so target attribute was added to each image to describe it. In the mdiddle section of the page the div tag was replaced with section semantic. In the side section the div tag ws replaced with aside semantic and the div tag in the bottom section was replaced with footer semantic. 
